@@ -6,7 +6,7 @@ export default function Header_part(){
             </h1>
             <div className="menu">
                 <a href="#x" className="link">단어 추가</a>
-                <a href="#x" className="link">단어 추가</a>
+                <a href="#x" className="link">Day 추가</a>
             </div>
         </div>
     );
