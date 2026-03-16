@@ -9,5 +9,5 @@ export default function Header_part(){
                 <a href="#x" className="link">Day 추가</a>
             </div>
         </div>
-    );
+        );
 }
