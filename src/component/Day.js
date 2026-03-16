@@ -5,10 +5,12 @@ export default function Day() {
         <div>
             <table>
                 <tbody>
-                    {words.map(word => ())}
-                    <tr>
-                        <td></td>
-                    </tr>
+                    {words.map(word => (
+                        <tr>
+                            <td></td>
+                        </tr>
+                    ))}
+
                 </tbody>
             </table>
         </div>
