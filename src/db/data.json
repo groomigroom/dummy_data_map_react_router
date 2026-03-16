@@ -33,5 +33,19 @@
             "kor" : "초콜릿",
             "isDone" : false
         },
+        {
+            "id" : 5,
+            "day" : 3,
+            "eng" : "computer",
+            "kor" : "컴퓨터",
+            "isDone" : false
+        },
+        {
+            "id" : 6,
+            "day" : 3,
+            "eng" : "ori",
+            "kor" : "꽥꽥",
+            "isDone" : false
+        }
     ]
 }
