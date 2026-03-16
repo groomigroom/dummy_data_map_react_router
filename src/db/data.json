@@ -4,5 +4,13 @@
         {id: 2, day: 2}
         {id: 3, day: 3}
     ],
-    words : []
+    words : [
+        {
+            id : 1,
+            day : 1,
+            eng : 'book',
+            kor : '책',
+            isDone : false
+        }
+    ]
 }
